@@ -3,7 +3,11 @@ puede llevarse a cabo uniendo dos cadenas de
 caracteres, o bien, enlazando un único carácter a
 otra cadena de caracteres.'''
 
-nombre =input("Nombre: ")
-edad = int(input("Edad: "))
+nombre = "jaren"
+edad = 19
 
-print("Hola {} tienes {} años".format(nombre, edad))
+print("Hola {} tienes {} años".format(nombre, edad)) #una forma para imprimir datos en pantalla
+
+#otra alternativa
+
+print("Hola {nombre} tienes {edad} años".format(nombre = "carlos", edad = 18))
