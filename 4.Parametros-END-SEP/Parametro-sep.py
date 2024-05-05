@@ -1,5 +1,5 @@
 '''Se utiliza para dar formato a las cadenas de caracteres que deben imprimirse en pantalla,
-agregando un separador entre las cadenas que imprimiran
+agregando un separador entre las cadenas que imprimiran.
 podemos controlar las separaciones de los elementos a imprimir con SEP
 '''
 
